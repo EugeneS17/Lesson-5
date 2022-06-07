@@ -1,1 +1,1 @@
-# Lesson-3-myPod-and-Simple-question
+# Lesson-3 (Adding images to pages)
